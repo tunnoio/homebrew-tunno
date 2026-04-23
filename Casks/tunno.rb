@@ -1,6 +1,6 @@
 cask "tunno" do
-  version "1.1.3"
-  sha256 "17963df72ba8731e6b2bbe60c811f9a5e8adcafee9f86265e2180fcae9cb4f6f"
+  version "1.1.4"
+  sha256 "c61d31bfec05a8dd58c2ea7ad0331d4e2d0d5fb1b340fe2a9026e9f4711e664e"
 
   url "https://github.com/tunnoio/tunno/releases/download/v#{version}/Tunno-#{version}.dmg"
   name "Tunno"
